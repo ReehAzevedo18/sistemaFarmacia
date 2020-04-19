@@ -7,3 +7,12 @@ C:\Users\RenataADMIN\source\repos\NomeDaEmpresa\NomeDaEmpresa.Domain\obj\Debug\n
 C:\Users\RenataADMIN\source\repos\NomeDaEmpresa\NomeDaEmpresa.Domain\obj\Debug\netcoreapp3.1\SistemaFarmacia.Domain.AssemblyInfo.cs
 C:\Users\RenataADMIN\source\repos\NomeDaEmpresa\NomeDaEmpresa.Domain\obj\Debug\netcoreapp3.1\SistemaFarmacia.Domain.dll
 C:\Users\RenataADMIN\source\repos\NomeDaEmpresa\NomeDaEmpresa.Domain\obj\Debug\netcoreapp3.1\SistemaFarmacia.Domain.pdb
+C:\Users\Layane\Documents\dev\cs\projetcs\LNRT\sistemaFarmacia\NomeDaEmpresa.Domain\bin\Debug\netcoreapp3.1\SistemaFarmacia.Domain.deps.json
+C:\Users\Layane\Documents\dev\cs\projetcs\LNRT\sistemaFarmacia\NomeDaEmpresa.Domain\bin\Debug\netcoreapp3.1\SistemaFarmacia.Domain.dll
+C:\Users\Layane\Documents\dev\cs\projetcs\LNRT\sistemaFarmacia\NomeDaEmpresa.Domain\bin\Debug\netcoreapp3.1\SistemaFarmacia.Domain.pdb
+C:\Users\Layane\Documents\dev\cs\projetcs\LNRT\sistemaFarmacia\NomeDaEmpresa.Domain\obj\Debug\netcoreapp3.1\SistemaFarmacia.Domain.csprojAssemblyReference.cache
+C:\Users\Layane\Documents\dev\cs\projetcs\LNRT\sistemaFarmacia\NomeDaEmpresa.Domain\obj\Debug\netcoreapp3.1\SistemaFarmacia.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Layane\Documents\dev\cs\projetcs\LNRT\sistemaFarmacia\NomeDaEmpresa.Domain\obj\Debug\netcoreapp3.1\SistemaFarmacia.Domain.AssemblyInfoInputs.cache
+C:\Users\Layane\Documents\dev\cs\projetcs\LNRT\sistemaFarmacia\NomeDaEmpresa.Domain\obj\Debug\netcoreapp3.1\SistemaFarmacia.Domain.AssemblyInfo.cs
+C:\Users\Layane\Documents\dev\cs\projetcs\LNRT\sistemaFarmacia\NomeDaEmpresa.Domain\obj\Debug\netcoreapp3.1\SistemaFarmacia.Domain.dll
+C:\Users\Layane\Documents\dev\cs\projetcs\LNRT\sistemaFarmacia\NomeDaEmpresa.Domain\obj\Debug\netcoreapp3.1\SistemaFarmacia.Domain.pdb

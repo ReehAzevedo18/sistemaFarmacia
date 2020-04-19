@@ -1,0 +1,9 @@
+C:\Users\Layane\Documents\dev\cs\projetcs\LNRT\sistemaFarmacia\SistemaFarmacia.DataAccess.Entity\bin\Debug\netcoreapp3.1\SistemaFarmacia.DataAccess.Entity.deps.json
+C:\Users\Layane\Documents\dev\cs\projetcs\LNRT\sistemaFarmacia\SistemaFarmacia.DataAccess.Entity\bin\Debug\netcoreapp3.1\SistemaFarmacia.DataAccess.Entity.dll
+C:\Users\Layane\Documents\dev\cs\projetcs\LNRT\sistemaFarmacia\SistemaFarmacia.DataAccess.Entity\bin\Debug\netcoreapp3.1\SistemaFarmacia.DataAccess.Entity.pdb
+C:\Users\Layane\Documents\dev\cs\projetcs\LNRT\sistemaFarmacia\SistemaFarmacia.DataAccess.Entity\obj\Debug\netcoreapp3.1\SistemaFarmacia.DataAccess.Entity.csprojAssemblyReference.cache
+C:\Users\Layane\Documents\dev\cs\projetcs\LNRT\sistemaFarmacia\SistemaFarmacia.DataAccess.Entity\obj\Debug\netcoreapp3.1\SistemaFarmacia.DataAccess.Entity.csproj.CoreCompileInputs.cache
+C:\Users\Layane\Documents\dev\cs\projetcs\LNRT\sistemaFarmacia\SistemaFarmacia.DataAccess.Entity\obj\Debug\netcoreapp3.1\SistemaFarmacia.DataAccess.Entity.AssemblyInfoInputs.cache
+C:\Users\Layane\Documents\dev\cs\projetcs\LNRT\sistemaFarmacia\SistemaFarmacia.DataAccess.Entity\obj\Debug\netcoreapp3.1\SistemaFarmacia.DataAccess.Entity.AssemblyInfo.cs
+C:\Users\Layane\Documents\dev\cs\projetcs\LNRT\sistemaFarmacia\SistemaFarmacia.DataAccess.Entity\obj\Debug\netcoreapp3.1\SistemaFarmacia.DataAccess.Entity.dll
+C:\Users\Layane\Documents\dev\cs\projetcs\LNRT\sistemaFarmacia\SistemaFarmacia.DataAccess.Entity\obj\Debug\netcoreapp3.1\SistemaFarmacia.DataAccess.Entity.pdb

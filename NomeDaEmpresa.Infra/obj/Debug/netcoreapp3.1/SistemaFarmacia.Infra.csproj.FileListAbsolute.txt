@@ -6,3 +6,12 @@ C:\Users\RenataADMIN\source\repos\NomeDaEmpresa\NomeDaEmpresa.Infra\obj\Debug\ne
 C:\Users\RenataADMIN\source\repos\NomeDaEmpresa\NomeDaEmpresa.Infra\obj\Debug\netcoreapp3.1\SistemaFarmacia.Infra.AssemblyInfo.cs
 C:\Users\RenataADMIN\source\repos\NomeDaEmpresa\NomeDaEmpresa.Infra\obj\Debug\netcoreapp3.1\SistemaFarmacia.Infra.dll
 C:\Users\RenataADMIN\source\repos\NomeDaEmpresa\NomeDaEmpresa.Infra\obj\Debug\netcoreapp3.1\SistemaFarmacia.Infra.pdb
+C:\Users\Layane\Documents\dev\cs\projetcs\LNRT\sistemaFarmacia\NomeDaEmpresa.Infra\bin\Debug\netcoreapp3.1\SistemaFarmacia.Infra.deps.json
+C:\Users\Layane\Documents\dev\cs\projetcs\LNRT\sistemaFarmacia\NomeDaEmpresa.Infra\bin\Debug\netcoreapp3.1\SistemaFarmacia.Infra.dll
+C:\Users\Layane\Documents\dev\cs\projetcs\LNRT\sistemaFarmacia\NomeDaEmpresa.Infra\bin\Debug\netcoreapp3.1\SistemaFarmacia.Infra.pdb
+C:\Users\Layane\Documents\dev\cs\projetcs\LNRT\sistemaFarmacia\NomeDaEmpresa.Infra\obj\Debug\netcoreapp3.1\SistemaFarmacia.Infra.csprojAssemblyReference.cache
+C:\Users\Layane\Documents\dev\cs\projetcs\LNRT\sistemaFarmacia\NomeDaEmpresa.Infra\obj\Debug\netcoreapp3.1\SistemaFarmacia.Infra.csproj.CoreCompileInputs.cache
+C:\Users\Layane\Documents\dev\cs\projetcs\LNRT\sistemaFarmacia\NomeDaEmpresa.Infra\obj\Debug\netcoreapp3.1\SistemaFarmacia.Infra.AssemblyInfoInputs.cache
+C:\Users\Layane\Documents\dev\cs\projetcs\LNRT\sistemaFarmacia\NomeDaEmpresa.Infra\obj\Debug\netcoreapp3.1\SistemaFarmacia.Infra.AssemblyInfo.cs
+C:\Users\Layane\Documents\dev\cs\projetcs\LNRT\sistemaFarmacia\NomeDaEmpresa.Infra\obj\Debug\netcoreapp3.1\SistemaFarmacia.Infra.dll
+C:\Users\Layane\Documents\dev\cs\projetcs\LNRT\sistemaFarmacia\NomeDaEmpresa.Infra\obj\Debug\netcoreapp3.1\SistemaFarmacia.Infra.pdb
