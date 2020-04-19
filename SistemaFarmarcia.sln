@@ -5,15 +5,15 @@ VisualStudioVersion = 16.0.29911.84
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "01 - Application", "01 - Application", "{58985257-ADC1-4585-A88A-CF1AC75A68E1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NomeDaEmpresa.Web", "NomeDaEmpresa.Web\NomeDaEmpresa.Web.csproj", "{5DDD756A-939E-41C5-A833-320E80D3A2A6}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SistemaFarmacia.Web", "NomeDaEmpresa.Web\SistemaFarmacia.Web.csproj", "{5DDD756A-939E-41C5-A833-320E80D3A2A6}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "02 - Domain", "02 - Domain", "{B1D0A623-BBCF-4C89-842D-BA78B4E4B7DB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NomeDaEmpresa.Domain", "NomeDaEmpresa.Domain\NomeDaEmpresa.Domain.csproj", "{ADCF87F9-21C0-4756-8B84-AB1D55759EFC}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SistemaFarmacia.Domain", "NomeDaEmpresa.Domain\SistemaFarmacia.Domain.csproj", "{ADCF87F9-21C0-4756-8B84-AB1D55759EFC}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "03 - Infra", "03 - Infra", "{3A776253-D03F-4201-9EA6-A1A0CFC9041B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NomeDaEmpresa.Infra", "NomeDaEmpresa.Infra\NomeDaEmpresa.Infra.csproj", "{54B13E1C-833A-4946-9380-CD4B78FE2620}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SistemaFarmacia.Infra", "NomeDaEmpresa.Infra\SistemaFarmacia.Infra.csproj", "{54B13E1C-833A-4946-9380-CD4B78FE2620}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
